@@ -16,6 +16,7 @@
 - spaCy (NLP processing)  
 - Transformers (text analysis)  
 - Git/GitHub (version control)
+## 📂 Structure 
 <!-- =================== 📂 Structure =================== -->
 .
 ├── config/  

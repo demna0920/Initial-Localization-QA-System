@@ -1,0 +1,5 @@
+{
+  "welcome": "Welcome to bank",
+  "balance": "Your current balance is .00",
+  "error_403": "Unauthorized transaction"
+}

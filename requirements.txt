@@ -1,0 +1,6 @@
+transformers==4.40.0
+spacy==3.7.0
+pycountry==22.3.5
+python-i18n==0.3.9
+pytest==7.4.0
+gitpython==3.1.40
